@@ -11,7 +11,7 @@ Customer {
 	BankAccountNumber
 }
 ```
-## Practices and patterns (Must):
+## Practices and patterns:
 
 - [TDD](https://docs.microsoft.com/en-us/visualstudio/test/quick-start-test-driven-development-with-test-explorer?view=vs-2022)
 - [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
